@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+body{
+    background-color: rgb(40, 245, 13);
+
+}
+#std{
+    position:fixed;
+    bottom:5%;
+    left:45%;
+}
